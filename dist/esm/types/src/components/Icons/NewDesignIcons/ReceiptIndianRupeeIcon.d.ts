@@ -1,6 +1,4 @@
 import * as React from "react";
 import { SVGProps } from "react";
-declare const ReceiptIndianRupeeIcon: (
-  props: SVGProps<SVGSVGElement>,
-) => React.JSX.Element;
+declare const ReceiptIndianRupeeIcon: (props: SVGProps<SVGSVGElement>) => React.JSX.Element;
 export default ReceiptIndianRupeeIcon;

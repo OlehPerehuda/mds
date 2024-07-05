@@ -1,6 +1,4 @@
 import * as React from "react";
 import { SVGProps } from "react";
-declare const RectangleVerticalIcon: (
-  props: SVGProps<SVGSVGElement>,
-) => React.JSX.Element;
+declare const RectangleVerticalIcon: (props: SVGProps<SVGSVGElement>) => React.JSX.Element;
 export default RectangleVerticalIcon;

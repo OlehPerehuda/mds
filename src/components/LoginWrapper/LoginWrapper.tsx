@@ -202,9 +202,6 @@ const LoginWrapper: FC<LoginWrapperProps> = ({
           </Box>
         )}
         <Box className={"loginForm"}>
-          <Box className={"logoContainer"}>
-            <ApplicationLogo {...logoProps} />
-          </Box>
           <Box className={"formContainer"}>
             <Box className={"form"}>{form}</Box>
             {formFooter && <Box className={"footer"}>{formFooter}</Box>}

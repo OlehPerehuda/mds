@@ -1,6 +1,4 @@
 import * as React from "react";
 import { SVGProps } from "react";
-declare const HardHatIcon: (
-  props: SVGProps<SVGSVGElement>,
-) => React.JSX.Element;
+declare const HardHatIcon: (props: SVGProps<SVGSVGElement>) => React.JSX.Element;
 export default HardHatIcon;

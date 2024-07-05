@@ -1,6 +1,4 @@
 import * as React from "react";
 import { SVGProps } from "react";
-declare const PenToolIcon: (
-  props: SVGProps<SVGSVGElement>,
-) => React.JSX.Element;
+declare const PenToolIcon: (props: SVGProps<SVGSVGElement>) => React.JSX.Element;
 export default PenToolIcon;

@@ -1,6 +1,4 @@
 import * as React from "react";
 import { SVGProps } from "react";
-declare const StretchVerticalIcon: (
-  props: SVGProps<SVGSVGElement>,
-) => React.JSX.Element;
+declare const StretchVerticalIcon: (props: SVGProps<SVGSVGElement>) => React.JSX.Element;
 export default StretchVerticalIcon;
